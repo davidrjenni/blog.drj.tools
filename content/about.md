@@ -9,6 +9,7 @@ I'm on [github](https://github.com/davidrjenni) and on [Google+](https://plus.go
 ## Projects
 
 - [reco](https://github.com/davidrjenni/reco) - recommender engine, written in Go
+- [pg](https://github.com/davidrjenni/pg) - toy parser generator, written in Go
 - [boards](https://boards.tools) - simple task board application, written in Go
 
 ## Stuff
