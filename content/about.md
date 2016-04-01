@@ -14,10 +14,10 @@ I'm on [github](https://github.com/davidrjenni) and on [Google+](https://plus.go
 
 ## Stuff
 
-- [taskfs](https://github.com/davidrjenni/taskfs) - Google tasks as 9P file server, written in Go
-- [rproxy](https://github.com/davidrjenni/rproxy) - simple websocket-aware HTTP reverse proxy, written in Go
-- [tetris](https://github.com/davidrjenni/tetris) - tetris for console, written in Go
-- [snake](https://github.com/davidrjenni/snake) - snake for console, written in Go
-- [dockerfiles](https://github.com/davidrjenni/dockerfiles) - various Dockerfiles
-- [dotfiles](https://github.com/davidrjenni/dotfiles) - my configuration files
-- [cmd](https://github.com/davidrjenni/dotfiles) - utilities
+- [taskfs](https://github.com/davidrjenni/cmd/tree/master/taskfs) - Google tasks as 9P file server, written in Go
+- [rproxy](https://github.com/davidrjenni/cmd/tree/master/rproxy) - simple websocket-aware HTTP reverse proxy, written in Go
+- [tetris](https://github.com/davidrjenni/cmd/tree/master/tetris) - tetris for console, written in Go
+- [snake](https://github.com/davidrjenni/cmd/tree/master/snake) - snake for console, written in Go
+- [dockerfiles](https://github.com/davidrjenni/files/tree/master/dockerfiles) - various Dockerfiles
+- [dotfiles](https://github.com/davidrjenni/files/tree/master/dotfiles) - my configuration files
+- [cmd](https://github.com/davidrjenni/files/tree/master/cmd) - utilities
