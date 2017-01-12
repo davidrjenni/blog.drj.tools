@@ -2,10 +2,11 @@ baseurl = "http://blog.drj.tools/"
 languageCode = "en-us"
 title = "notes"
 theme = "nofancy"
-copyright = "Copyright (c) 2016 David R. Jenni. All rights reserved."
+copyright = "Copyright (c) 2016 - 2017 David R. Jenni. All rights reserved."
 
 [author]
 	name = "David R. Jenni"
 	github = "davidrjenni"
 	twitter = "davidrjenni"
+	linkedin = "davidrjenni"
 	gaID = "UA-73273600-1"
