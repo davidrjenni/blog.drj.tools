@@ -4,7 +4,14 @@ title = "about"
 +++
 
 I'm David. My interests include compilers, parser generators, recommender systems and [Go](https://golang.org).
-I'm on [github](https://github.com/davidrjenni) and on [Google+](https://plus.google.com/u/0/+DavidRJenni).
+
+## Contact
+
+- [Github](https://github.com/davidrjenni)
+- [Keybase](https://keybase.io/davidrjenni)
+- [Google+](https://plus.google.com/u/0/+DavidRJenni)
+- [Twitter](https://twitter.com/davidrjenni)
+- [LinkedIn](https://www.linkedin.com/in/davidrjenni)
 
 ## Projects
 
