@@ -8,6 +8,7 @@ I'm on [github](https://github.com/davidrjenni) and on [Google+](https://plus.go
 
 ## Projects
 
+- [A](https://github.com/davidrjenni/A) - Go tools integration for Acme
 - [pg](https://github.com/davidrjenni/pg) - toy parser generator, written in Go
 
 ## Stuff
