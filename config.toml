@@ -2,7 +2,7 @@ baseurl = "http://blog.drj.tools/"
 languageCode = "en-us"
 title = "notes"
 theme = "nofancy"
-copyright = "Copyright (c) 2016 - 2017 David R. Jenni. All rights reserved."
+copyright = "Copyright © 2016–2017 David R. Jenni. All rights reserved."
 
 [author]
 	name = "David R. Jenni"
