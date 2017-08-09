@@ -1,5 +1,5 @@
 +++
-categories = ["misc"]
+categories = ["posts"]
 date = "2014-12-03T10:22:35+01:00"
 title = "Variadic Functions in Go"
 +++

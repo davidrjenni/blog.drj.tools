@@ -1,5 +1,5 @@
 +++
-categories = ["misc"]
+categories = ["posts"]
 date = "2014-11-18T11:08:48+01:00"
 title = "Go Interfaces"
 +++

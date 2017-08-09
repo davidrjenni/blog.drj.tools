@@ -1,5 +1,5 @@
 +++
-categories = ["misc"]
+categories = ["posts"]
 date = "2015-07-29T22:47:14+01:00"
 title = "git"
 +++
